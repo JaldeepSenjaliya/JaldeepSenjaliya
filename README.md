@@ -14,18 +14,26 @@
   <a href="https://apps.apple.com/ca/app/201-dap/id1464722926?platform=iphone" target="_blank">
     <img src="https://img.shields.io/badge/appstore-blue?style=for-the-badge&logo=appstore&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://github.com/JaldeepSenjaliya" target="_blank">
+  <a href="https://github.com/JaldeepSenjaliya" target="_blank">
     <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="Twitter Badge"/>
   </a><br>
     <img src="https://komarev.com/ghpvc/?username=JaldeepSenjaliya&style=flat-square&color=blue" alt="counter" />
   <div>
-<h1 align="left">
-  Hey! there
+<h1>
+  hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="40px" height="40px"/>
 </h1>
 </div>
 
- <div align="left">
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<hr>
+---
+:man_technologist: About Me :
+
+
+<!-- <div align="left">
     <p> - 🔭 I’m currently working on @Swift @iOS </p>
     <p> - 🌱 I’m currently learning @node.js @python @docker </p>
     <p> - 👯 I’m looking to collaborate on any open source project</p>
@@ -34,7 +42,7 @@
     <p> - 📫 How to reach me: jaldeepsenjaliya@gmail.com</p>
     <p> - 😄 Pronouns: He/Him</p>
     <p> - ⚡ Fun fact: I don't know coding and on the way to learn it</p>
-</div>
+</div> -->
 
 <!--
 **JaldeepSenjaliya/JaldeepSenjaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
