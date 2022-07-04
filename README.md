@@ -3,7 +3,7 @@
  <h1> Hey there! I'm Jaldeep <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="40px" height="40px"/> </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1020" height="500"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div>
   <hr>
