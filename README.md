@@ -33,7 +33,7 @@
     <p> - 💬 Ask me about @swift @iOS</p>
     <p> - 📫 How to reach me: jaldeepsenjaliya@gmail.com</p>
     <p> - 😄 Pronouns: He/Him</p>
-    <p> - ⚡ Fun fact: I don't know coding and along the way to learn it</p>
+    <p> - ⚡ Fun fact: I don't know coding and on the way to learn it</p>
 </div>
 
 <!--
