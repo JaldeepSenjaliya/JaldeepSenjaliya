@@ -19,7 +19,7 @@
         <a href="mailto:jaldeepsenjaliya@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
         </a>
-        <a href="tel:+16473211512" target="_blank">
+        <a href="https://forms.gle/TuWX92MwxmQAaGgj6" target="_blank">
           <img src="https://img.shields.io/badge/contact-339933?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone"/>
         </a>
   </p>
@@ -75,7 +75,7 @@
     <a href="mailto:jaldeepsenjaliya@gmail.com" target="_blank">
        <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
      </a>
-     <a href="tel:+16473211512" target="_blank">
+     <a href="https://forms.gle/TuWX92MwxmQAaGgj6" target="_blank">
        <img src="https://img.shields.io/badge/contact-339933?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone"/>
      </a>
      <a href="https://github.com/JaldeepSenjaliya" target="_blank">
