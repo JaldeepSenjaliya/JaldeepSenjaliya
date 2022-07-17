@@ -1,31 +1,29 @@
 <div id="header" align="left">
- <!--  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" /> --> 
+ <!--  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" /> --> 
  <h1> Hey there! I'm Jaldeep <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="40px" height="40px"/> </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="450"/>
+</div><h1></h1>
+
 <div>
-  <hr>
     <a href="https://jaldeepsenjaliya.github.io/About-Me/" target="_blank">
       <img src="https://img.shields.io/badge/About-Me-Green?style=for-the-badge&logo=me&logoColor=white" alt="about-me"/>
    </a> 
-  <p>:man_technologist: I'm an iOS and Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India,       currently living in Toronto, ON.</p>
+  <p>:man_technologist: I'm an iOS and Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India,         currently living in Toronto, ON.</p>
   <p>:telescope: I'm working as an iOS developer</p>
   <p>:seedling: Learning and contributing to frontend and backend for building web applications </p>
   <p>:rocket: Exploring and learning node.js, Python, Java, Docker, PostgreSQL, MySQL, AWS </p>
   <p>:zap: In my free time, I work on problem solving skills and read tech articles</p>
-  <p>:mailbox: How to reach me: 
+ <!-- <p>:mailbox: How to reach me: 
         <a href="mailto:jaldeepsenjaliya@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
         </a>
         <a href="https://forms.gle/TuWX92MwxmQAaGgj6" target="_blank">
           <img src="https://img.shields.io/badge/contact-339933?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone"/>
-        </a>
-  </p>
-</div>
-
-<hr>
+        </a> 
+  </p> -->
+</div><h1></h1>
 
 ### :hammer_and_wrench: Languages and Tools :
 <p>
@@ -49,9 +47,7 @@
 <img src="https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=MYSQL&logoColor=white" alt="mysql" />
 <img src="https://img.shields.io/badge/postgreSQL-blue?style=for-the-badge&logo=postgreSQL&logoColor=white" alt="postgresql" />
 <img src="https://img.shields.io/badge/aws-red?style=for-the-badge&logo=amazon&logoColor=white" alt="aws" />
-</p>
-
-<hr>
+</p><h1></h1>
 
 ### :computer: Portfolio :
     
@@ -64,15 +60,12 @@
    </a>
    <a href="https://apps.apple.com/ca/app/201-dap/id1464722926?platform=iphone" target="_blank">
       <img src="https://img.shields.io/badge/appstore-blue?style=for-the-badge&logo=appstore&logoColor=white" alt="app-store"/>
-   </a>
-   <hr>
-
-
+   </a><h1></h1>
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JaldeepSenjaliya&theme=highcontrast&hide_border=true)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaldeepSenjaliya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JaldeepSenjaliya&theme=highcontrast)](https://git.io/streak-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaldeepSenjaliya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+ <img src="https://komarev.com/ghpvc/?username=JaldeepSenjaliya&style=flat-square&color=blue" alt="counter" /><h1></h1>
 
 ### :telephone_receiver: Reach Me :
  <div id="badges">
@@ -87,8 +80,7 @@
      </a>
      <a href="https://github.com/JaldeepSenjaliya" target="_blank">
         <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="Twitter Badge"/>
-    </a> <br>
-        <img src="https://komarev.com/ghpvc/?username=JaldeepSenjaliya&style=flat-square&color=blue" alt="counter" />
+    </a> 
    <div>
 
 
