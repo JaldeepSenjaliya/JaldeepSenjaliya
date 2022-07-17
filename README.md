@@ -67,6 +67,13 @@
    </a>
    <hr>
 
+
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JaldeepSenjaliya&theme=highcontrast&hide_border=true)](https://git.io/streak-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaldeepSenjaliya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :telephone_receiver: Reach Me :
  <div id="badges">
     <a href="https://www.linkedin.com/in/jaldeep-senjaliya/" target="_blank">
