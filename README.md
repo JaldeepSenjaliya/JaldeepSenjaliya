@@ -1,10 +1,10 @@
 <div id="header" align="left">
  <!--  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" /> --> 
- <h1> Hey there! I'm Jaldeep <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="40px" height="40px"/> </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="450"/>
-</div><h1></h1>
+ <!--  <h1> Hey there! I'm Jaldeep <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" width="40px" height="40px"/> </h1> --> 
+ <div align="center">
+  <img src="/header.png" width="800" height="300"/>
+</div>  <!-- https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif --> <h1></h1>   
 
 <div>
     <a href="https://jaldeepsenjaliya.github.io/About-Me/" target="_blank">
