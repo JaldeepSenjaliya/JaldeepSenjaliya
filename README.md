@@ -42,11 +42,14 @@
 <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-<img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+
+<!--
 <img src="https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=MYSQL&logoColor=white" alt="mysql" />
+<img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 <img src="https://img.shields.io/badge/postgreSQL-blue?style=for-the-badge&logo=postgreSQL&logoColor=white" alt="postgresql" />
-<img src="https://img.shields.io/badge/aws-red?style=for-the-badge&logo=amazon&logoColor=white" alt="aws" />
+<img src="https://img.shields.io/badge/aws-red?style=for-the-badge&logo=amazon&logoColor=white" alt="aws" /> -->
 </p><h1></h1>
 
 ### :computer: Portfolio :
