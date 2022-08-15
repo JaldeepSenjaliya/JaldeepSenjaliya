@@ -13,7 +13,7 @@
   <p>:man_technologist: I'm an iOS and Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in India,         currently living in Toronto, ON.</p>
   <p>:telescope: I'm working as an iOS developer</p>
   <p>:seedling: Learning and contributing to frontend and backend for building web applications </p>
-  <p>:rocket: Exploring and learning node.js, Python, Java, Docker, PostgreSQL, MySQL, AWS </p>
+  <p>:rocket: Exploring and learning React, React-Native, node.js, Docker, MySQL, AWS </p>
   <p>:zap: In my free time, I work on problem solving skills and read tech articles</p>
  <!-- <p>:mailbox: How to reach me: 
         <a href="mailto:jaldeepsenjaliya@gmail.com" target="_blank">
